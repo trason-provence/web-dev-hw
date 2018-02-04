@@ -1,0 +1,7 @@
+Data can travel the internet in three ways: electrical, light and radio. For this response, I will talk about how data travels with light. This option provides the fastest way to send data, as well as the way with the least amount of interruptions. It's done through fiber optic cables (threads of glass that reflects light) that stretch all around the world, creating beams of light traveling at the speed of light - extremely fast! The light, along with the data, bounces up and down the cable until it reaches its destination, and multiple beams can travel at once depending on the bounce angle. The most important aspect of this is that there is no degrading of the information because the signal is rarely ever lost, and, if it is, the beams can redirect the data to a different path.
+
+An IP address is a series of numbers that is given to any given computer to assign it to the correct network. This is what identifies that computer. The DNS, or Domain Name Service, is what is used to convert the name of any given website (letters) into the numbers (IP address).
+
+A cookie is a piece of data that is stored on a user's computer from specific websites, and they are done automatically and without the user really knowing. This small piece of data is what stores personal information about that user on that website, such as credit card number, automatically renewing subscriptions, passwords, etc. A cookie sort of keeps a list of what that user what doing on that website.
+
+A URL has three basic parts: the protocol, the domain and the path.
